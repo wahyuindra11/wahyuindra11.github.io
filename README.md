@@ -9,4 +9,4 @@
 
 💙
 
-![preview img](/preview.png)
+<img src="img/preview.png" alt="">
