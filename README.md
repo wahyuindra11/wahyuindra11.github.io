@@ -1,5 +1,4 @@
-# Portfolio Wahyu Indra
-## Portfolio Responsive Complete
+#Portfolio Responsive Complete
 
 - Website Portofolio Pribadi Responsif HTML CSS & JavaScript.
 - Berisi animasi saat bergulir.
