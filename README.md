@@ -8,5 +8,4 @@
 - Kompatibel dengan semua perangkat seluler dan dengan antarmuka pengguna yang indah dan menyenangkan.
 
 💙
-
 <img src="img/preview.png" alt="">
