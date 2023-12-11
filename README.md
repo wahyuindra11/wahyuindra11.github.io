@@ -9,9 +9,4 @@
 💙
 💙
   ![alt text](https://github.com/wahyuindra11/wahyuindra11.github.io/blob/master/assets/img/preview.png)
-=======
 
-💙  
-
-  ![alt text](https://github.com/wahyuindra11/wahyuindra11.github.io/blob/master/assets/img/preview.png)
->>>>>>> 5bed4381eb5c88571e552530548c7b385f04af5a
